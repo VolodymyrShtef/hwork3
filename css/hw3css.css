@@ -1,0 +1,37 @@
+.mypage {
+  font-family: 'Playfair Display', Georgia, 'Times New Roman', Times, serif;
+  color: #626262;
+}
+.link {
+  text-decoration: none;
+  font-size: 20px;
+  text-transform: uppercase;
+  line-height: 24px;
+  color: #626262;
+}
+.menu {
+  list-style-type: none;
+}
+.section {
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 24px;
+}
+.title {
+  font-size: 30px;
+  font-weight: normal;
+  line-height: 1.2;
+}
+.chapter {
+  font-family: 'Ubuntu', Arial, Helvetica, sans-serif;
+  font-weight: lighter;
+  line-height: 1.2;
+  color: #b4ad9e;
+}
+.button {
+  font-family: 'Playfair Display', Georgia, 'Times New Roman', Times, serif;
+  font-size: 20px;
+  font-weight: normal;
+  line-height: 24px;
+  color: #626262;
+}

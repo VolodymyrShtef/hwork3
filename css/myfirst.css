@@ -1,0 +1,39 @@
+/* Завдання 1 */
+/* .tasks {
+  font-family: 'PT Sans', Arial, Helvetica, sans-serif;
+  color: #212121;
+  font-size: 16;
+  line-height: 1.5;
+}
+.link {
+  color: #1976d2;
+  text-decoration: none;
+}
+.link:hover,
+.link:focus {
+  color: #ff4081;
+  text-decoration: underline;
+} */
+
+/* Завдання 2 */
+.tasks {
+  font-family: 'Roboto', Arial, Helvetica, sans-serif;
+  color: #212121;
+  font-size: 16;
+  line-height: 1.5;
+}
+.link-main {
+  font-size: 18px;
+  color: inherit;
+  text-decoration: inherit;
+}
+.link {
+  color: inherit;
+  text-decoration: inherit;
+}
+.link:hover,
+.link-main:hover,
+.link:focus,
+.link-main:focus {
+  color: #2196f3;
+}
