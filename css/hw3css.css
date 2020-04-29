@@ -9,6 +9,10 @@
   line-height: 24px;
   color: #626262;
 }
+.link:hover,
+.link:focus {
+  color: #03a9f4;
+}
 .menu {
   list-style-type: none;
 }
